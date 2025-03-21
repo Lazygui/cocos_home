@@ -2,20 +2,16 @@
 
 **引擎版本 3.8.5**
 
-效果：
+#### assets 场景文件夹
 
-1. 右侧图片跟随鼠标源码目录-----[angle.ts](https://github.com/Lazygui/cocos_home/blob/master/assets/homepage/angle.ts "鼠标跟随")
+| 文件夹名 | 子文件   | 说明         | 备注 |
+| -------- | -------- | ------------ | ---- |
+| homepage | images   | 图片资源     |      |
+|          | angle.ts | 鼠标跟随脚本 |      |
 
-结构说明：
 
-./assets
+#### utils 通用函数文件夹
 
-├─homepage                  //主页面场景脚本
-
-|    ├─images               //图片资源
-
-|    ├─[angle.ts](https://github.com/Lazygui/cocos_home/blob/master/assets/homepage/angle.ts "鼠标跟随")             //鼠标跟随脚本
-
-├─utils                     //通用API组件
-
-|    ├─cursor               //修改鼠标移入节点时的样式
+| 函数名 | 作用                     | 备注 |
+| ------ | :----------------------- | ---- |
+| cursor | 修改鼠标移入节点时的样式 |      |
