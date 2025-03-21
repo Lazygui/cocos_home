@@ -7,11 +7,11 @@
 | 文件夹名 | 子文件   | 说明         | 备注 |
 | -------- | -------- | ------------ | ---- |
 | homepage | images   | 图片资源     |      |
-|          | angle.ts | 鼠标跟随脚本 |      |
+|          | [angle.ts](https://github.com/Lazygui/cocos_home/blob/166ea67e0e0434c57b27c57ff7d03ef510f61143/assets/homepage/angle.ts#L1-L37)   | 鼠标跟随脚本 |      |
 
 
 #### utils 通用函数文件夹
 
 | 函数名 | 作用                     | 备注 |
 | ------ | :----------------------- | ---- |
-| cursor | 修改鼠标移入节点时的样式 |      |
+| [cursor](https://github.com/Lazygui/cocos_home/blob/master/assets/utils/cursor.ts) | 修改鼠标移入节点时的样式 |      |
