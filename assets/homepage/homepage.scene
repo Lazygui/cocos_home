@@ -52,7 +52,7 @@
     },
     "autoReleaseAssets": false,
     "_globals": {
-      "__id__": 78
+      "__id__": 76
     },
     "_id": "aae97e97-bdcb-421a-a28a-6b3bc2feddb6"
   },
@@ -87,6 +87,9 @@
     "_active": true,
     "_components": [
       {
+        "__id__": 72
+      },
+      {
         "__id__": 73
       },
       {
@@ -94,12 +97,6 @@
       },
       {
         "__id__": 75
-      },
-      {
-        "__id__": 76
-      },
-      {
-        "__id__": 77
       }
     ],
     "_prefab": null,
@@ -1672,9 +1669,6 @@
     "_components": [
       {
         "__id__": 71
-      },
-      {
-        "__id__": 72
       }
     ],
     "_prefab": null,
@@ -2704,18 +2698,6 @@
     "_id": "75se97WyxIaYkjswAVe8Jr"
   },
   {
-    "__type__": "8af98SRBstCWbiFnacGmE9K",
-    "_name": "",
-    "_objFlags": 0,
-    "__editorExtras__": {},
-    "node": {
-      "__id__": 44
-    },
-    "_enabled": true,
-    "__prefab": null,
-    "_id": "b6FlgItCtPUaLOsAvLI5DI"
-  },
-  {
     "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
@@ -2791,46 +2773,35 @@
     "node": {
       "__id__": 2
     },
-    "_enabled": false,
+    "_enabled": true,
     "__prefab": null,
-    "_id": "a865P7LxdBaJdWTHEM7yyN"
-  },
-  {
-    "__type__": "2075aQkb6FER7sT3x6Yj3wD",
-    "_name": "",
-    "_objFlags": 0,
-    "node": {
-      "__id__": 2
-    },
-    "_enabled": false,
-    "__prefab": null,
-    "_id": "7eSBU1etlOrIaBNKN6jAQU"
+    "_id": "c6ehVdS2VNQLKstMS8OTAA"
   },
   {
     "__type__": "cc.SceneGlobals",
     "ambient": {
-      "__id__": 79
+      "__id__": 77
     },
     "shadows": {
-      "__id__": 80
+      "__id__": 78
     },
     "_skybox": {
-      "__id__": 81
+      "__id__": 79
     },
     "fog": {
-      "__id__": 82
+      "__id__": 80
     },
     "octree": {
-      "__id__": 83
+      "__id__": 81
     },
     "skin": {
-      "__id__": 84
+      "__id__": 82
     },
     "lightProbeInfo": {
-      "__id__": 85
+      "__id__": 83
     },
     "postSettings": {
-      "__id__": 86
+      "__id__": 84
     },
     "bakedWithStationaryMainLight": false,
     "bakedWithHighpLightmap": false
