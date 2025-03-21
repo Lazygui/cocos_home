@@ -1,4 +1,5 @@
 # 基于 Cocos Creator 引擎编写的 2D 交互源码
+> 注：本项目中所使用的图形素材均来自[卑微美工Garry](https://www.bilibili.com/video/BV1HF411z7Pf?p=2&spm_id_from=333.880.my_history.page.click)
 
 **引擎版本 3.8.5**
 
