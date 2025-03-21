@@ -1,3 +1,7 @@
+/**
+ * 为当前节点添加鼠标移入样式
+ */
+
 import { _decorator, Component, EventMouse, NodeEventType } from "cc";
 const { ccclass, property } = _decorator;
 
