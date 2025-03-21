@@ -10,7 +10,9 @@
 
 ./assets
 ├─homepage                  //主页面场景脚本
+
 |    ├─images               //图片资源
+
 |    ├─[angle.ts](https://github.com/Lazygui/cocos_home/blob/master/assets/homepage/angle.ts "鼠标跟随")             //鼠标跟随脚本
 ├─utils                     //通用API组件
 |    ├─cursor               //修改鼠标移入节点时的样式
